@@ -4,4 +4,4 @@ Crypto Target Calculator is small program which calculate Risk/Reward Ration.Def
 
 Installation:</br>
 1:Download python from page https://www.python.org/downloads/ and install</br>
-2:Into terminal/console write this command pip install clipboard
+2:Into terminal/console write this command <b>pip install clipboard</b>
