@@ -2,4 +2,4 @@
 
 Small program for trading he calculate Risk/Reward Ratio 1.25(Default settings)
 
-![screen](https://user-images.githubusercontent.com/60738029/149825606-28634bc6-eebc-4487-b03d-c508b8912dd3.png)
+![crypto target](https://user-images.githubusercontent.com/60738029/149825715-0734f939-5410-4785-8247-b339782ae0a2.png)
