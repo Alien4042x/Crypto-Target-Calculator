@@ -4,5 +4,5 @@ Crypto Target Calculator is small program which calculate Risk/Reward Ration.Def
 
 Installation:</br>
 1: Download python from page https://www.python.org/downloads/ and install</br>
-2: Into terminal/console write this command <b>pip install PyQt5</b></br> and <b>pip install clipboard</b></br>
+2: Into terminal/console write this command <b>pip install PyQt5</b> and <b>pip install clipboard</b></br>
 3: Start the application. Application will start in few second
